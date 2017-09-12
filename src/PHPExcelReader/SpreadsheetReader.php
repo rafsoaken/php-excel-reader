@@ -4,7 +4,7 @@ namespace PHPExcelReader;
 /**
  * A class for reading Microsoft Excel (97/2003) Spreadsheets.
  *
- * Version 2.21
+ * Version 3.0
  *
  * Enhanced and maintained by Matt Kruse < http://mattkruse.com >
  * Maintained at http://code.google.com/p/php-excel-reader/
